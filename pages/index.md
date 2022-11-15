@@ -10,7 +10,6 @@ Build Engineer at [Twitter](https://twitter.com)
 
 ### Staff Software Engineer, San Francisco, CA
 
-
 ### Main responsibilities
 
 #### 2020 - Present
@@ -20,11 +19,12 @@ Build Engineer at [Twitter](https://twitter.com)
   * build cache service scalable to handle tens of thousand build workers
 * **[Bazel Migration]** Socialize, plan, design, and implement build tool migration from Pants to Bazel, interfacing customer teams and tooling teams to better support the migration.
   * Collaborate with Managed CI team (Twitter's custom code submission system which consists of tens of thousands of workers) to find and test code built by both build tools incrementally and safely.
-    * BazelCon 2021 Talk on CI system integration with Bazel [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](bazelcon2021.pdf)
     * Establish and maintain performance and reliability baseline and monitoring
+  * Collaborate with VM team to develop and execute the plan for company wide migration from JDK 8 to JDK 11 with minimal friction with Bazel migration.
   * Mentor and work with junior engineers to maximize team throughput and resiliency
+  * BazelCon 2021 Talk - [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](bazelcon2021.pdf)
 
-#### 2020 and prior
+#### 2019 and Prior
 
 * Develop and maintain [Pants](https://github.com/pantsbuild/pants), the main build tool in Twitter.
   * [3rdparty resolver migration (Coursier -> Ivy)](https://v1.pantsbuild.org/coursier_migration.html)
