@@ -50,7 +50,7 @@ Software Engineer at [Cisco](https://cisco.com)
 
 Stacks
 ------
-#### Data Query Engines and Visualization
+#### Data Query Engines and Viz
 * BigQuery
 * Jupyter Notebooks
 * Tableau
