@@ -25,11 +25,11 @@ With a simple command line, prices can be shown across the location. If a good p
 
 ![](/resources/grabbie.png)
 
-It hasn't been available on Apple App Store for a while, but the idea is that when going from A to B, you can add another query in the middle, e.g. stop by a coffee shop.
+It has not been available on Apple App Store for a while, but the idea is that when going from A to B, you can add another query in the middle, e.g. stop by a coffee shop.
 
 It will then show you various options and their added time.
 
-It was original inspired by me going out for hikes on weekends and wanted to find breakfast on the way.
+Back in 2014, it was originally inspired by me going out for hikes on weekends and wanted to find breakfast on the way.
 
 The same idea was later adopted in google map where similar features can be found today.
 
