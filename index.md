@@ -9,9 +9,9 @@ nav_order: 0
 
 As of Nov 2022, I have spent 7 years in the build tooling and automation space.
 
-Going forward, I am still interested in similar space as well as robotics and autmoation.
+Going forward, I am still interested in similar space as well as robotics and automation.
 
-For details, please kindly see [Experiences](/pages/experiences)
+For details, please kindly see [experiences](/pages/experiences).
 
 ### Contact Info
 
