@@ -23,7 +23,7 @@ Build Engineer at [Twitter](https://twitter.com)
     * Establish and maintain performance and reliability baseline and monitoring
   * Collaborate with VM team to develop and execute the plan for company wide migration from JDK 8 to JDK 11 with minimal friction with Bazel migration.
   * Mentor and work with junior engineers to maximize team throughput and resiliency
-  * BazelCon 2021 Talk - [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](bazelcon2021.pdf)
+  * BazelCon 2021 Talk - [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](https://drive.google.com/file/d/1N3-aza4Ql-JECbdUeei_ZglQcohoa5Bl/view)
 
 #### 2019 and Prior
 
