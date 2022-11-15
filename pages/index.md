@@ -15,11 +15,13 @@ Build Engineer at [Twitter](https://twitter.com)
 
 #### 2020 - Present
 
-* Develop and maintain build infrastructure including
+* **[Infra]** Develop and maintain build infrastructure including
   * build stats collection service for real time and offline analysis
   * build cache service scalable to handle tens of thousand build workers
-* Socialize, plan, design, and implement Build tool migration from Pants to Bazel, interfacing customer teams and tooling teams to better support the migration.
-  * BazelCon 2021 Talk on CI system integration with Bazel [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](bazelcon2021.pdf)
+* **[Bazel Migration]** Socialize, plan, design, and implement build tool migration from Pants to Bazel, interfacing customer teams and tooling teams to better support the migration.
+  * Collaborate with Managed CI team (Twitter's custom code submission system which consists of tens of thousands of workers) to find and test code built by both build tools incrementally and safely.
+    * BazelCon 2021 Talk on CI system integration with Bazel [Migrating Twitter's Monorepo from Pants to Bazel - 2021](https://opensourcelive.withgoogle.com/events/bazelcon2021?talk=migrating-twitter) - [[Slides]](bazelcon2021.pdf)
+    * Establish and maintain performance and reliability baseline and monitoring
   * Mentor and work with junior engineers to maximize team throughput and resiliency
 
 #### 2020 and prior
