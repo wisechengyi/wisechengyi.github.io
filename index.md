@@ -9,9 +9,7 @@ nav_order: 0
 
 ### Hi, I am Yi
 
-Intro WIP.
-
-### Other Links
+A curious and kind soul.
 
 [LinkedIn Profile: https://www.linkedin.com/in/yidcheng](https://www.linkedin.com/in/yidcheng/)
 
