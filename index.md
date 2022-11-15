@@ -11,7 +11,7 @@ nav_order: 0
 
 A curious and kind soul.
 
-[LinkedIn Profile: https://www.linkedin.com/in/yidcheng](https://www.linkedin.com/in/yidcheng/)
+[LinkedIn: yidcheng](https://www.linkedin.com/in/yidcheng/)
 
-[Twitter Profile: https://twitter.com/yidcheng](https://twitter.com/yidcheng/)
+[Twitter: yidcheng](https://twitter.com/yidcheng/)
 
