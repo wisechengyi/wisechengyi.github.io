@@ -2,15 +2,17 @@
 title: About
 layout: home
 ---
+![](resources/profile-circular.png)
 
-Hi,
 
-Welcome to my page. More to come!
+
+### Hi, I am Yi
+
+Intro WIP.
+
+### Other Links
 
 [LinkedIn Profile: https://www.linkedin.com/in/yidcheng](https://www.linkedin.com/in/yidcheng/)
 
+[Twitter Profile: https://twitter.com/yidcheng](https://twitter.com/yidcheng/)
 
----
-title: About2
-layout: home
----
