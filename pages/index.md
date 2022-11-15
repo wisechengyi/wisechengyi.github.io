@@ -6,11 +6,11 @@ nav_order: 1
 
 Build Engineer at [Twitter](https://twitter.com)
 ---------------------------------
-### Aug 2015 - Present
+#### Aug 2015 - Present
+#### Staff Software Engineer
+#### San Francisco, CA
 
-### Staff Software Engineer, San Francisco, CA
-
-### Main responsibilities
+### Main Responsibilities
 
 #### 2020 - Present
 
@@ -38,10 +38,11 @@ Build Engineer at [Twitter](https://twitter.com)
 
 Software Engineer at [Cisco](https://cisco.com)
 -----------------------------------------------
-### Feb 2014 - Aug 2015 · 1 yr 7 mos
-### Location: San Jose, CA
-### Title: Software Engineer
+#### Feb 2014 - Aug 2015 · 1 yr 7 mos
+#### Software Engineer
+#### San Jose, CA
 
+### Main Responsibilities
 * Infrastructure setup and configuration
 * Cloud management and automation
 * Full stack web devops
