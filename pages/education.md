@@ -1,7 +1,7 @@
 ---
 title: Education
 layout: default
-parent: Experiences
+nav_order: 2
 ---
 
 ## University of Illinois Urbana-Champaign

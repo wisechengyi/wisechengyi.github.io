@@ -1,7 +1,7 @@
 ---
 title: Side Projects
 layout: default
-parent: Experiences
+nav_order: 3
 ---
 
 ## WIP
