@@ -39,7 +39,6 @@ Build Engineer at [Twitter](https://twitter.com)
 Software Engineer at [Cisco](https://cisco.com)
 -----------------------------------------------
 #### Feb 2014 - Aug 2015 · 1 yr 7 mos
-#### Software Engineer
 #### San Jose, CA
 
 ### Main Responsibilities
@@ -47,6 +46,17 @@ Software Engineer at [Cisco](https://cisco.com)
 * Cloud management and automation
 * Full stack web devops
 * Mobile gateway solution testing
+
+Software Engineer Intern at Ingersoll Machine Tools
+---------------------------------------------------
+#### May 2013 - Dec 2013 · 8 mos
+#### Rockford, Illinois
+
+### Main Responsibilities
+* Solve kinematics mathematically on different types of fiber placement machines.
+* Apply robotic kinematics algorithms with C++ to improve the speed.
+* Apply software engineering patterns and heuristics measures to maximize the performance and ease of code management.
+
 
 Stacks
 ------
