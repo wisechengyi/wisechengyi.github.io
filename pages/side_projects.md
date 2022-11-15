@@ -6,6 +6,10 @@ nav_order: 3
 
 ### 3D Printing
 
+Some are more useful than others, but here is one
+
+![](/resources/twitter_check.jpg)
+
 ### [Costco Rental Accelerator](https://github.com/wisechengyi/costco_rentalcar) (2018)
 
 Costco car rental provides great value, e.g. free cancellations and no hidden fees, but the user experience can sub-optimal in that searching for rental cars is limited at 4 locations maximum at a time, so this tools helps the best price around.
