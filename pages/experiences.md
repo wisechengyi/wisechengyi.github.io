@@ -6,13 +6,13 @@ nav_order: 1
 
 Build Engineer at [Twitter](https://twitter.com)
 ---------------------------------
-#### Aug 2015 - Present
+#### Aug 2015 - Nov 2022 · 7 yr 4 mo
 #### Staff Software Engineer
 #### San Francisco, CA
 
 ### Main Responsibilities
 
-#### 2020 - Present
+#### 2020 - 2022
 
 * **[Infra]** Develop and maintain build infrastructure including
   * build stats collection service for real time and offline analysis
