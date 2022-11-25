@@ -31,7 +31,7 @@ I have always enjoyed mentoring and working with junior engineers (by tenure or 
 
 There are a few aspects to this:
 
-1. “If only I know how this piece of code works, job secured!”. While it might be true, it also means one may be stuck with it, thus having no growth for their career. Hence the counter-intuitive conclusion is that one should always strive to be replaceable.
+1. “If I am the only person who knows how this piece of code works, job secured!”. While it might be true, it also means one may be stuck with it, thus having no growth for their career. Hence the counter-intuitive conclusion is that one should always strive to be replaceable.
 2. It is a great way to get feedback on your own code. Code quality is not only about elegance, but also readability and maintainability.
 3. The industry is moving forward rapidly, and it is very common for me not to be able to keep up with the latest trends or technologies, so I expect them to teach me as well, as one might say “my teachers are getting younger and younger”.
 
