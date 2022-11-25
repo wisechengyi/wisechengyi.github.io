@@ -1,8 +1,10 @@
 ---
 title: Blog
 layout: default
-nav_order: 0
+nav_order: 2
 ---
+
+#### 2022-11-25
 
 A slice of my 7 years and change at Twitter
 -------------------------------------------
