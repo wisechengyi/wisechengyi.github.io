@@ -9,7 +9,7 @@ A slice of my 7 years and change at Twitter
 
 After a fun ride of 7 years and 4 months, Nov 17th, 2022 was my last working day at Twitter by not choosing being “hardcore” ([context](https://gizmodo.com/elon-musk-email-be-part-of-hardcore-twitter-or-leave-1849789128)), so now is probably a good time to share part of what I have learned at Twitter (all “Twitter” references below are about the company, not the product).
 
-People have always said Twitter is an amazing place to work at, and culture is definitely part of that.
+People have always said Twitter is an amazing place to work at, and its culture is definitely part of that.
 
 ### "Communicate Fearlessly To Build Trust"
 
