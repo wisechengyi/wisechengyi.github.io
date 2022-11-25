@@ -1,5 +1,5 @@
-Some Thoughts on my Twitter Ride
---------------------------------
+A slice of 7 years and change at Twitter
+----------------------------------------
 
 After a fun ride of 7 years and 4 months, Nov 17th, 2022 was my last working day at Twitter by not choosing being “hardcore” ([context](https://gizmodo.com/elon-musk-email-be-part-of-hardcore-twitter-or-leave-1849789128)), so now is probably a good time to share part of what I have learned at Twitter (all “Twitter” references below are about the company, not the product).
  
@@ -19,9 +19,9 @@ One key takeaway for me is that trust is the foundation for any communication. I
 
 ### Growing with Others
 
-It is easy to see the benefit of working with more experienced people, but I want to highlight that the reserve is also true. 
+It is easy to see the benefit of working with more experienced people, but I want to highlight that the reverse is also true.
 
-I have always enjoyed mentoring and working with junior engineers (in tenure or experience). It may be a natural instinct that engineers don’t like others to touch their code, but sometimes our instincts serve us the opposite way. For example, it is natural to panic after getting bit by a venomous snake, but it will in turn make their blood flow faster and sustain more damage. 
+I have always enjoyed mentoring and working with junior engineers (by tenure or experience). It may be a natural instinct that engineers don’t like others to touch their code, but sometimes our instincts serve us the opposite way.
 
 There are a few aspects to this. 
 
