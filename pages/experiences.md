@@ -4,8 +4,11 @@ layout: default
 nav_order: 1
 ---
 
-Build Engineer at [Twitter](https://twitter.com)
----------------------------------
+# Experiences
+-------------
+
+## Build Engineer at [Twitter](https://twitter.com)
+
 #### Aug 2015 - Nov 2022 · 7 yr 4 mo
 #### Staff Software Engineer
 #### San Francisco, CA
@@ -36,8 +39,8 @@ Build Engineer at [Twitter](https://twitter.com)
   * Gradle / Android Studio / Android Gradle Plugin upgrades
   * Establish performance metrics baseline and monitoring by integrating with [Gradle Enterprise](https://gradle.com/gradle-enterprise-solutions/build-scan-root-cause-analysis-data/)
 
-Software Engineer at [Cisco](https://cisco.com)
------------------------------------------------
+## Software Engineer at [Cisco](https://cisco.com)
+
 #### Feb 2014 - Aug 2015 · 1 yr 7 mos
 #### San Jose, CA
 
@@ -47,8 +50,8 @@ Software Engineer at [Cisco](https://cisco.com)
 * Full stack web devops
 * Mobile gateway solution testing
 
-Software Engineer Intern at Ingersoll Machine Tools
----------------------------------------------------
+## Software Engineer Intern at Ingersoll Machine Tools
+
 #### May 2013 - Dec 2013 · 8 mos
 #### Rockford, Illinois
 
@@ -84,3 +87,13 @@ Stacks
 * Python
 * Java
 * Scala
+
+
+# Education
+-----------
+
+### University of Illinois Urbana-Champaign
+Master, Computer Science, 2012 - 2013
+
+### University of Illinois Urbana-Champaign logo
+B.S, Computer Engineering, 2008 - 2012
