@@ -57,7 +57,7 @@ nav_order: 1
 
 ### Main Responsibilities
 * Solve kinematics mathematically on different types of fiber placement machines.
-* Apply robotic kinematics algorithms with C++ to improve the speed.
+* Implement robotic kinematics algorithms with C++ to improve the speed.
 * Apply software engineering patterns and heuristics measures to maximize the performance and ease of code management.
 
 
@@ -95,5 +95,5 @@ Stacks
 ### University of Illinois Urbana-Champaign
 Master, Computer Science, 2012 - 2013
 
-### University of Illinois Urbana-Champaign logo
+### University of Illinois Urbana-Champaign
 B.S, Computer Engineering, 2008 - 2012
