@@ -60,9 +60,18 @@ nav_order: 1
 * Implement robotic kinematics algorithms with C++ to improve the speed.
 * Apply software engineering patterns and heuristics measures to maximize the performance and ease of code management.
 
+# Education
+-----------
+
+### University of Illinois Urbana-Champaign
+Master, Computer Science, 2012 - 2013
+
+### University of Illinois Urbana-Champaign
+B.S, Computer Engineering, 2008 - 2012
 
 Stacks
 ------
+
 #### Data Query Engines and Viz
 * BigQuery
 * Jupyter Notebooks
@@ -88,12 +97,3 @@ Stacks
 * Java
 * Scala
 
-
-# Education
------------
-
-### University of Illinois Urbana-Champaign
-Master, Computer Science, 2012 - 2013
-
-### University of Illinois Urbana-Champaign
-B.S, Computer Engineering, 2008 - 2012
