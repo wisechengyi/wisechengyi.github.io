@@ -15,5 +15,5 @@ For details, please kindly see [experiences](/pages/experiences).
 
 ### Contact Info
 
-[LinkedIn: yidcheng](https://www.linkedin.com/in/yidcheng/), [Twitter: yidcheng](https://twitter.com/yidcheng/)
+[LinkedIn](https://www.linkedin.com/in/yidcheng/), [Twitter](https://twitter.com/yidcheng/), [Github](https://github.com/wisechengyi)
 
