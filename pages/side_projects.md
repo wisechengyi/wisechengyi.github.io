@@ -44,3 +44,6 @@ The same idea was later adopted in google map where similar features can be foun
 ### Air Control Game, writtein in Smalltalk (2013)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWg2zlmB_4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9658098054613095"
+     crossorigin="anonymous"></script>
