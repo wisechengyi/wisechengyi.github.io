@@ -1,1 +1,2 @@
 pandoc <this file> --pdf-engine=pdflatex -o x.pdf -V geometry:a4paper,margin=2cm
+
