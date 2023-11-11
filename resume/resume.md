@@ -21,14 +21,13 @@ Profile
   * Repo migrations, CI/CD pipeline conversions
   * Educations
 * Sherperd monorepo practices for migrated teams
-  * trunk health enforcement and management
-  * improve CI architecture and performance
+  * Trunk health enforcement and management
+  * Improve CI architecture and performance
 * Infra and tooling for monorepo solutions
-  * packaged bazelisk / bazel / configs to adapt to internal environments
-  * metrics for progress tracking / prioritizaion
-  * remote cache / exec service
-  * integration for bazel among multiple systems
-    * CI / CD pipelines
+  * Packaged bazelisk / bazel / configs to adapt to internal environments
+  * Metrics for progress tracking / prioritizaion
+  * Remote cache / remote exec
+  * Integration for bazel intefacing multiple external systems
 
 ## Build Engineer at [Twitter](https://twitter.com)
 
