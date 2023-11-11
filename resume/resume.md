@@ -20,7 +20,7 @@ Profile
 * Promote and ship monorepo solutions to tiktok & devinfra developers
   * Repo migrations, CI/CD pipeline conversions
   * Educations
-* Sherperd monorepo practices for migrated teams
+* Sheperd monorepo practices for migrated teams
   * Trunk health enforcement and management
   * Improve CI architecture and performance
 * Infra and tooling for monorepo solutions
