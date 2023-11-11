@@ -4,6 +4,56 @@ layout: default
 nav_order: 2
 ---
 
+#### 2023-11-10
+
+
+## How not to do monorepo
+-------------------------
+
+Among the tech scenes, monorepo isn't a foreign concept. For folks who are not familiar with it, ChatGPT listed the following points as the benefits of a monorepo, which all I agree.
+
+1. **Code Sharing and Reusability:**
+   - All code is in one place, making it easier for teams to share and reuse code across projects.
+   - Shared libraries, utilities, and components can be easily maintained and updated.
+
+2. **Atomic Changes Across Projects:**
+   - Changes that span multiple projects can be made atomically, ensuring consistency across the codebase.
+   - Atomic commits help avoid issues that may arise when different projects are on different versions of shared code.
+
+3. **Consistent Development Environment:**
+   - Developers working on different projects can have a consistent development environment since they are all working from the same codebase.
+
+4. **Simplified Dependency Management:**
+   - Dependencies can be managed more easily as they are centralized in the monorepo. It's easier to track and update dependencies across the entire codebase.
+
+5. **Unified Build and CI/CD Pipeline:**
+   - A single build and continuous integration/continuous deployment (CI/CD) pipeline can be used for all projects, streamlining the development process.
+   - This can lead to faster and more reliable build processes.
+
+6. **Easier Refactoring:**
+   - Refactoring code that spans multiple projects is more straightforward when all the code is in one repository.
+   - Developers can make changes across the monorepo and ensure that everything continues to work cohesively.
+
+7. **Centralized Versioning:**
+   - Versioning is centralized, making it easier to manage and track changes across the entire codebase.
+   - Ensures that all projects are on the same version of shared code.
+
+8. **Simplified Code Reviews:**
+   - Code reviews can be more comprehensive, as developers have visibility into changes across the entire codebase.
+   - It's easier to catch potential issues that may arise from changes in shared code.
+
+9. **Cross-Project Consistency:**
+   - Consistency in coding standards, practices, and documentation can be more easily enforced across all projects.
+
+10. **Enhanced Collaboration:**
+    - Improved collaboration among teams working on different projects, as they have a shared understanding of the entire codebase.
+
+However, going from multi-repo to a monorepo isn't always easy. Let's see what might be in the way.
+
+
+
+
+
 #### 2022-11-25 
 
 ## A Slice Of My 7 Years And Change @ Twitter
