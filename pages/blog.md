@@ -10,7 +10,7 @@ nav_order: 2
 ## How not to do monorepo
 -------------------------
 
-Among the tech scenes, monorepo isn't a foreign concept. For folks who are not familiar with it, ChatGPT listed the following points as the benefits of a monorepo, which all I agree.
+Among the tech scenes, monorepo is not a foreign concept. It is used in major tech companies such as Google, Facebook, Uber, etc. For folks who are not familiar with it, ChatGPT listed the following points as the benefits of a monorepo, which all I agree.
 
 1. **Code Sharing and Reusability:**
    - All code is in one place, making it easier for teams to share and reuse code across projects.
@@ -49,6 +49,36 @@ Among the tech scenes, monorepo isn't a foreign concept. For folks who are not f
     - Improved collaboration among teams working on different projects, as they have a shared understanding of the entire codebase.
 
 However, going from multi-repo to a monorepo isn't always easy. Let's see what might be in the way.
+
+Let's say your organization isn't fully ready for the concept and want to try it out before fully jumping onto the bandwagon, which is totally reasonable. What would be a good approach vs not?
+
+
+Although monorepos could carry many benefits, for folks who have never developed in a monorepo, it is totally reasonable to have doubts on it. Therefore, we need strong set of pain points today to motivate the developers to be onboard with the idea. In Twitter's case, it was the "publshing hell", i.e. if service A -> B -> C ( -> means depends on), and each of them have some IDL defined. If C's IDL changes, then C needs to publish the change for B to consume from a separate repo, and then B needs to be published in order for A to consume, so on and so forth. Eventually it got to 5 to 6 levels deep for twitter at the time. Thus a change could take months to propagate, test and eventually get online.
+
+Another case could be relatively simple, e.g. "Our team's CI time is horrible", then bazel (in a monorepo setting) can most efficiently build and test your projects. In the current market, for sizable monorepos, there is no real competitor to bazel.
+
+In either case, it is generally recommended to have a strong single (or two) reason to motivate the migration, to give something that people are hoping for.
+
+On the contrary, if a team seems happy with where they are as a small repo, it's probably hard to get buy-in from them, because if they are in the game for a while, chances they will run into issues that can be fairly well dealt with by monorepo. Some of the aspects could include
+1. the team / project is very new, so there hasn't been any team that need to depend on them, thus for them to manage the SDLC for other developers.
+2. "our team only needs to provide code updates, but adoption rate isn't our responsibility, because other teams can choose what they want."
+3. the team / project only aims for short term benefits or scopes, in which case there is no incentive at all. The project could be dead in a few weeks / months, why spend the time migrating to monorepo. This is a valid reason.
+
+
+
+
+Heavy rely on QA because QA cost is significantly lower than software engineering cost.
+
+Organizational power grab
+
+"selfish" developers
+
+
+the worse than before multi monorepos, the forgotten monorepos
+
+
+
+
 
 
 
