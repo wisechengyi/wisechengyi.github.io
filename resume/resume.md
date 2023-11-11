@@ -7,7 +7,7 @@ Contact
 
 Profile
 
-* Website: https://cv.wisechengyi.com/
+* Website: https://wisechengyi.github.io
 * Linkedin: https://www.linkedin.com/in/yidcheng/
 * Github: https://github.com/wisechengyi/
 
