@@ -53,16 +53,29 @@ However, going from multi-repo to a monorepo isn't always easy. Let's see what m
 Let's say your organization isn't fully ready for the concept and want to try it out before fully jumping onto the bandwagon, which is totally reasonable. What would be a good approach vs not?
 
 
-Although monorepos could carry many benefits, for folks who have never developed in a monorepo, it is totally reasonable to have doubts on it. Therefore, we need strong set of pain points today to motivate the developers to be onboard with the idea. In Twitter's case, it was the "publshing hell", i.e. if service A -> B -> C ( -> means depends on), and each of them have some IDL defined. If C's IDL changes, then C needs to publish the change for B to consume from a separate repo, and then B needs to be published in order for A to consume, so on and so forth. Eventually it got to 5 to 6 levels deep for twitter at the time. Thus a change could take months to propagate, test and eventually get online.
+Although monorepos could carry many benefits, for folks who have never developed in a monorepo, it is totally reasonable to have doubts on it. Therefore, we need strong set of pain points today to motivate the developers to be onboard with the idea. 
 
-Another case could be relatively simple, e.g. "Our team's CI time is horrible", then bazel (in a monorepo setting) can most efficiently build and test your projects. In the current market, for sizable monorepos, there is no real competitor to bazel.
+In Twitter's case, it was the "publshing hell", i.e. if service A -> B -> C ( -> means depends on), and each of them have some IDL defined. If C's IDL changes, then C needs to publish the change for B to consume from a separate repo, and then B needs to be published in order for A to consume, so on and so forth. Eventually it got to 5 to 6 levels deep for twitter at the time. Thus a change could take months to propagate, test and eventually get online.
 
-In either case, it is generally recommended to have a strong single (or two) reason to motivate the migration, to give something that people are hoping for.
+Another reason could be relatively simple, e.g. "our team's CI time is horrible", then bazel (in a monorepo setting) can most efficiently build and test the projects. In the current market, for sizable monorepos, there is no real competitor to bazel.
 
-On the contrary, if a team seems happy with where they are as a small repo, it's probably hard to get buy-in from them, because if they are in the game for a while, chances they will run into issues that can be fairly well dealt with by monorepo. Some of the aspects could include
+In either case, it is generally recommended to have a strong single (or two) reason to motivate the migration, to provide something people can strongly hope for.
+
+On the contrary, if a team seems happy with where they are as a small repo, it's probably hard to get buy-in from them, because if they are in the game for a while, chances are they will run into issues here and there, and probably would want a monorepo. Some of the aspects could include
 1. the team / project is very new, so there hasn't been any team that need to depend on them, thus for them to manage the SDLC for other developers.
-2. "our team only needs to provide code updates, but adoption rate isn't our responsibility, because other teams can choose what they want."
-3. the team / project only aims for short term benefits or scopes, in which case there is no incentive at all. The project could be dead in a few weeks / months, why spend the time migrating to monorepo. This is a valid reason.
+2. "our team only needs to publish code updates, but adoption rate isn't our responsibility, because other teams can choose what they want."
+3. the team / project only aims for short term benefits or scopes, in which case there is no incentive at all. The project could be dead in a few weeks / months, why spend the time migrating to monorepo.
+
+Why are teams happy with where they are
+1. Affordable QA cost. In some peculiar market, the cost of hiring a software engineer is about hiring 3 QA engineers, and 
+
+
+Code is our asset. While code is indeed a asset of a company, it is not the most important asset. The most important asset is people, because people how to use or not to use / where to use the code, the context around the code, etc.
+
+
+larger background: what drives people to be more near sighted.
+* unpredictable policies
+* more and more tightened market and area to grow
 
 
 
