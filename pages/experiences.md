@@ -7,6 +7,22 @@ nav_order: 1
 # Experiences
 -------------
 
+## Software Engineer at [Bytedance](https://www.bytedance.com)
+
+#### Apr 2023 - Present, Software Engineer, San Jose, CA
+
+* Promote and ship monorepo solutions to tiktok & devinfra developers
+  * Repo migrations, CI/CD pipeline conversions
+  * Educations
+* Sheperd monorepo practices for migrated teams
+  * Trunk health enforcement and management
+  * Improve CI architecture and performance
+* Infra and tooling for monorepo solutions
+  * Packaged bazelisk / bazel / configs to adapt to internal environments
+  * Metrics for progress tracking / prioritizaion
+  * Remote cache / remote exec
+  * Integration for bazel intefacing multiple external systems
+
 ## Build Engineer at [Twitter](https://twitter.com)
 
 #### Aug 2015 - Nov 2022 · 7 yr 4 mo

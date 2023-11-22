@@ -13,7 +13,7 @@ Profile
 
 # Experiences
 
-## Build Engineer at [Bytedance](https://www.bytedance.com)
+## Software Engineer at [Bytedance](https://www.bytedance.com)
 
 #### Apr 2023 - Present, Software Engineer, San Jose, CA
 
