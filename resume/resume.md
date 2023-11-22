@@ -27,7 +27,7 @@ Profile
   * Packaged bazelisk / bazel / configs to adapt to internal environments
   * Metrics for progress tracking / prioritizaion
   * Remote cache / remote exec
-  * Integration for bazel intefacing multiple external systems
+  * Integration for bazel interfacing multiple external systems
 
 ## Build Engineer at [Twitter](https://twitter.com)
 
