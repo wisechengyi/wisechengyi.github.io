@@ -14,7 +14,7 @@ nav_order: 1
 * Promote and ship monorepo solutions to tiktok & devinfra developers
   * Repo migrations, CI/CD pipeline conversions
   * Educations
-* Sheperd monorepo practices for migrated teams
+* Shepherd monorepo practices for migrated teams
   * Trunk health enforcement and management
   * Improve CI architecture and performance
 * Infra and tooling for monorepo solutions
