@@ -4,6 +4,15 @@ layout: default
 nav_order: 3
 ---
 
+### Remote Controlled Car (RCC)
+
+RC cars are mostly seen. They can be toys or race cars. My goal here is to make it a utility vehicle, so that I can drive it around without the limitation of radio range limit as well as
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DoqGxhrD8aU
+" target="_blank"><img src="http://img.youtube.com/vi/DoqGxhrD8aU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 ### 3D Printing
 
 Some are more useful than others, but here is one
