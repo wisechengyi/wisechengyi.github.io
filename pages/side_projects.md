@@ -6,12 +6,11 @@ nav_order: 3
 
 ### Remote Controlled Car (RCC)
 
-RC cars are mostly seen. They can be toys or race cars. My goal here is to make it a utility vehicle, so that I can drive it around without the limitation of radio range limit as well as
+RC cars are commonly seen, but they are limited by radio range and vision.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DoqGxhrD8aU
-" target="_blank"><img src="http://img.youtube.com/vi/DoqGxhrD8aU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+My goal here is to remove these two constraints, thus unlocking many possibilities.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DoqGxhrD8aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3D Printing
 
