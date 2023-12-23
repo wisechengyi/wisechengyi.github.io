@@ -16,7 +16,7 @@ My goal here is to remove these two constraints, thus unlocking many possibiliti
 
 #### How I did it
 
-https://github.com/wisechengyi/rcc_readme/blob/main/how/HOW.md
+[https://github.com/wisechengyi/rcc_readme/blob/main/how/HOW.md](https://github.com/wisechengyi/rcc_readme/blob/main/how/HOW.md)
 
 ### 3D Printing
 
