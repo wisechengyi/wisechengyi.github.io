@@ -14,7 +14,9 @@ My goal here is to remove these two constraints, thus unlocking many possibiliti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DoqGxhrD8aU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### [Tutorial](/resources/how/HOW.md)
+#### How I did it
+
+https://github.com/wisechengyi/rcc_readme/blob/main/how/HOW.md
 
 ### 3D Printing
 
